@@ -182,16 +182,37 @@ body{
   font-weight: bold;
 
 
+
 }
 
 .landing .intro_text p {
-  font-size: 20px;
+  font-size: 25px;
   line-height: 1.8;
   font-weight: bold;
-  color: #f6f6f6;
+
+
 
 
 }
+
+@media (max-width:767px){
+  .landing .intro_text p
+ {
+    font-family: cursive;
+    color: #f6f6f6;
+  -webkit-text-stroke:1px black;
+  }
+
+}
+@media (max-width:767px){
+  .landing .intro_text h1{
+    font-family: cursive;
+    -webkit-text-stroke:1px black;
+  }
+
+  }
+
+
 
 /* Start feature  */
 .feature{
