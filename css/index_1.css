@@ -185,8 +185,9 @@ body{
 }
 
 .landing .intro_text p {
-  font-size: 19px;
+  font-size: 20px;
   line-height: 1.8;
+  font-weight: bold;
 
 }
 
