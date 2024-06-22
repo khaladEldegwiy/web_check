@@ -178,7 +178,7 @@ body{
 
 .landing .intro_text h1{
   margin: 0;
-  color: red;
+  color: var(--main_color);
   font-weight: bold;
 
 
